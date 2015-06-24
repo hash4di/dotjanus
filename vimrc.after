@@ -1,2 +1,4 @@
 set background=light
 colorscheme solarized
+
+set guifont=Monaco:h16
