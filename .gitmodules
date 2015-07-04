@@ -1,3 +1,6 @@
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "comments.vim"]
+	path = comments.vim
+	url = git@github.com:vim-scripts/comments.vim.git
