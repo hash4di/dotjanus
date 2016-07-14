@@ -8,3 +8,5 @@ if janus#is_plugin_enabled('syntastic')
   set statusline+=%{SyntasticStatuslineFlag()}
   set statusline+=%*
 endif
+
+set rtp+=/usr/local/opt/fzf
