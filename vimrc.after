@@ -12,3 +12,5 @@ endif
 set rtp+=/usr/local/opt/fzf
 
 nmap <F8> :TagbarToggle<CR>
+
+filetype plugin on
