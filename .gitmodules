@@ -4,3 +4,6 @@
 [submodule "comments.vim"]
 	path = comments.vim
 	url = git@github.com:vim-scripts/comments.vim.git
+[submodule "tagbar.vim"]
+	path = tagbar.vim
+	url = git@github.com:majutsushi/tagbar.git

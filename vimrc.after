@@ -10,3 +10,5 @@ if janus#is_plugin_enabled('syntastic')
 endif
 
 set rtp+=/usr/local/opt/fzf
+
+nmap <F8> :TagbarToggle<CR>
