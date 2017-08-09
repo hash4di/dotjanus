@@ -1,7 +1,7 @@
 set background=dark
 colorscheme solarized
 
-set guifont=Monaco:h16
+set guifont=Monaco:h18
 
 if janus#is_plugin_enabled('syntastic')
   set statusline+=%#warningmsg#
